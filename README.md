@@ -1,1 +1,1 @@
-# MarkdownByExample
+# Basics of Coding Markdown
