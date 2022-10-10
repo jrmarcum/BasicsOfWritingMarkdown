@@ -1,1 +1,1 @@
-# Basics of Coding Markdown
+# Basics of Writing Markdown
